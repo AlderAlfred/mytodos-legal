@@ -73,12 +73,12 @@ We reserve the right to modify these terms at any time. Continued use of the App
 
 ## Governing Law
 
-These terms are governed by the laws of [YOUR_COUNTRY/STATE] ← **请填写您的国家/地区**
+These terms are governed by the laws of the People's Republic of China.
 
 ## Contact Information
 
 For questions about these Terms, contact us at:
-- Email: [YOUR_EMAIL@example.com]  ← **请替换为您的真实邮箱**
+- Email: 13001998100@163.com
 
 ## Apple Requirements
 

@@ -65,7 +65,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
-- Email: [YOUR_EMAIL@example.com]  ← **请替换为您的真实邮箱**
+- Email: 13001998100@163.com
 
 ---
 
